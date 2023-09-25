@@ -1,0 +1,6 @@
+# Folders not needed
+.vscode
+__pycache__
+# Only keep avatar images in images folder
+images/*
+!images/avatar*.png
